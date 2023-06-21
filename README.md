@@ -1,1 +1,7 @@
-# Stock-Trend-Visualizing-And-Forecasting-
+# Stock-Trend-Visualizing-And-Forecasting
+
+//Researchers have been studying different methods to effectively predict the stock market price. Useful prediction systems allow traders to get better insights about data such as future trends. Also, investors have a major benefit since the analysis gives future conditions of the market. One such method is to use machine learning algorithms for forecasting. 
+This project’s objective is to improve the quality of output of the stock market predicted by using stock value. A number of researchers have come up with various ways to solve this problem, mainly there are traditional methods so far, such as artificial neural network is a way to get hidden patterns and classify the data which is used in predicting the stock market. This project proposes a different method for prognostic stock market prices. It does not fit the data to a specific model; rather, we identify the latent dynamics in the data using machine learning architectures. 
+In this work, we planned to use Machine learning architectures Long Short-Term Memory (LSTM), Recurrent neural network (RNN), and the Hybrid approach of LSTM + RNN for the price forecasting of Yahoo! Finance - listed companies and differentiating their performance. On a long-term basis, the sling window approach was applied, and the performance was assessed using root mean square error.//
+
+To run the file, open cmd in the folder all the file are placed and run a command prompt "streamlit run app3.py".
